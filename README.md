@@ -32,3 +32,6 @@ A memo with more than 100 BASH commands with examples
 * Version 53. [2024-DEC-09]
   * UTF-8 encoding: ``` tidy -utf8 -o UNIX-BASH~v53.html UNIX-BASH~v52.html ; ```
   * Correction of some internal links.
+* Version 54. [2024-DEC-10]
+  * 109 commands &rarr; ```tac```added.
+  * More details on ```tr```.
