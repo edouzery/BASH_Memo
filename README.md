@@ -14,9 +14,17 @@ A memo with more than 100 BASH commands with examples
   * 100 commands.
 * Version 40 [2019-APR-17].
   * 101 commands.
-* Version 52.
+* Version 43a [2020-MAY-25].
+  * 102 commands.
+* Version 43b [2021-JAN-19].
+  * 105 commands.
+* Version 48 [2022-NOV-30].
+  * 105 commands.
+* Version 51 [2024-SEP-12].
+  * 106 commands.
+* Version 52. [2024-NOV-26]
   * 108 commands.
   * Problem: UNIX line breaks but Western (Windows Latin 1 — windows-1252) encoding.
-* Version 53.
+* Version 53. [2024-DEC-09]
   * UTF-8 encoding: ``` tidy -utf8 -o UNIX-BASH~v53.html UNIX-BASH~v52.html ; ```
   * Correction of some internal links.
