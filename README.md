@@ -2,8 +2,12 @@
 A memo with more than 100 BASH commands with examples
 
 * Projected initiated [2009-JUL-31].
+* Version 01 [2009-AUG-05].
+  * 56 different commands.
+  * Microsoft Word 97 - 2004 document (.doc).
 * Version 20 [2011-AUG-24].
   * 22 different commands.
+  * Shift to HTML file for easier navigation.
 * Version 27 [2015-FEB-01].
   * 91 commands.
 * Version 30 [2015-JUN-01].
