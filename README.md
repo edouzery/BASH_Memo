@@ -26,12 +26,15 @@ A memo with more than 100 BASH commands with examples
   * 105 commands.
 * Version 51 [2024-SEP-12].
   * 106 commands.
-* Version 52. [2024-NOV-26]
+* Version 52 [2024-NOV-26].
   * 108 commands.
   * Problem: UNIX line breaks but Western (Windows Latin 1 — windows-1252) encoding.
-* Version 53. [2024-DEC-09]
+* Version 53 [2024-DEC-09].
   * UTF-8 encoding: ``` tidy -utf8 -o UNIX-BASH~v53.html UNIX-BASH~v52.html ; ```
   * Correction of some internal links.
-* Version 54. [2024-DEC-10]
+* Version 54 [2024-DEC-10].
   * 109 commands &rarr; ```tac``` added.
   * More details on ```tr```.
+* Version 55 [2025-MAR-06].
+  * 113 commands &rarr; ```fc```, ```history```, ```pbcopy```, and ```pbpaste``` added.
+  
