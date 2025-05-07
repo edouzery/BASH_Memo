@@ -35,6 +35,6 @@ A memo with more than 100 BASH commands with examples
 * Version 54 [2024-DEC-10].
   * 109 commands &rarr; ```tac``` added.
   * More details on ```tr```.
-* Version 55 [2025-MAR-06].
+* Version 55 [2025-MAY-06].
   * 113 commands &rarr; ```fc```, ```history```, ```pbcopy```, and ```pbpaste``` added.
   
