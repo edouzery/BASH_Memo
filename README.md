@@ -37,4 +37,6 @@ A memo with more than 100 BASH commands with examples
   * More details on ```tr```.
 * Version 55 [2025-MAY-06].
   * 113 commands &rarr; ```fc```, ```history```, ```pbcopy```, and ```pbpaste``` added.
+* Version 56 [2025-NOV-07].
+  * More details on ```sed```.
   
