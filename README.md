@@ -39,4 +39,7 @@ A memo with more than 100 BASH commands with examples
   * 113 commands &rarr; ```fc```, ```history```, ```pbcopy```, and ```pbpaste``` added.
 * Version 56 [2025-NOV-07].
   * More details on ```sed```.
+* Version 57 [2025-NOV-25].
+  * More details on ```bc```.
+  * Adding here-document (<<) and here-string (<<<).
   
