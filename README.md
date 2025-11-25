@@ -41,5 +41,5 @@ A memo with more than 100 BASH commands with examples
   * More details on ```sed```.
 * Version 57 [2025-NOV-25].
   * More details on ```bc```.
-  * Adding here-document (<<) and here-string (<<<).
+  * Adding here-document (```<<```) and here-string (```<<<```).
   
